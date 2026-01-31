@@ -1,0 +1,13 @@
+
+```gitignore
+# Visual Studio
+*.suo
+*.user
+*.vs
+bin/
+obj/
+*.log
+*.vspscc
+.vscode/
+packages/
+Migrations/
