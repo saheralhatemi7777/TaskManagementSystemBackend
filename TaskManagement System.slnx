@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="APi_Layer/APi_Layer.csproj" Id="e6ad9666-59fa-4ebf-ade8-3ab149085194" />
+  <Project Path="ApplicationLayer/ApplicationLayer.csproj" />
+  <Project Path="DomenLayer/DomenLayer.csproj" />
+  <Project Path="InforsturctiorLayer/InforsturctiorLayer.csproj" />
+</Solution>
